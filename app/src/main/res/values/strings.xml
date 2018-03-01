@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VLSM Demo</string>
+    <string name="divideButton">Divide</string>
+    <string name="notify">Please input</string>
+    <string name="_10_20_30" translatable="false">10,20,30</string>
+    <string name="_192_168_1_0_24" translatable="false">192.168.1.0/24</string>
+    <string name="ipAddress">IP Address</string>
+    <string name="divideNum">Divide Number</string>
+    <string name="emptyNot">Empty Input</string>
+    <string name="progressing">I am Progressing</string>
+    <string name="ip_illegal">IP adress illegal</string>
+    <string name="divide_number_illegal">Divide Number Illegal</string>
+</resources>

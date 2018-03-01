@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VLSM 小程序</string>
+    <string name="ipAddress">IP地址 :</string>
+    <string name="divideNum">划分数量 :</string>
+    <string name="divideButton">划分</string>
+    <string name="notify">请输入</string>
+    <string name="emptyNot">输入为空</string>
+    <string name="progressing">处理中</string>
+    <string name="ip_illegal">IP地址不合法</string>
+    <string name="divide_number_illegal">分配数量输入错误</string>
+</resources>
